@@ -4,5 +4,5 @@
 - Sent a message to a computer over serial
 
 ### Deliverables
-- Demo Video (../Supporting Files/Demo Video.MOV)
+- Demo Video (./Supporting Files/Demo Video.MOV)
 
