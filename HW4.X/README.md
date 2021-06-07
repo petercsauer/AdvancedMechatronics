@@ -1,4 +1,4 @@
-# HW 4
+# HW 4 - Initial PIC32 Circuit Setup
 
 ### Tasks
 - Create a programmable PIC32 Circuit
